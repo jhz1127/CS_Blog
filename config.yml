@@ -4,6 +4,9 @@ title: "大米粥的技术博客"
 #   pagerSize: 5
 theme: PaperMod
 
+# Set the publish directory
+publishDir: "docs"
+
 # Add this line to specify the theme properly
 themesDir: "themes"
 
